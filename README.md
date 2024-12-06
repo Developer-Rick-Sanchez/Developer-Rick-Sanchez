@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img align="right" height="175" src="https://media.giphy.com/media/lVNCzeuCK1VEvbNkhO/giphy.gif"  />
+<img align="left" height="175" src="https://media.giphy.com/media/lVNCzeuCK1VEvbNkhO/giphy.gif"  />
 
 ###
 
